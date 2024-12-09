@@ -1,1 +1,1 @@
-ls | grep .pdf && grep e || grep a
+ls || grep .pdf && grep e || grep a
